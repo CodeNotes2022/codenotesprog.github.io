@@ -1,0 +1,24 @@
+
+.header .main-menu li a:hover, .header .main-menu li a:focus, .header .main-menu li.menu_has_children:hover > a::before, .header .main-menu li .sub-menu li a:hover, .btn-outline--base, .hero-search-form i, a:hover, .footer .footer-menu li a:hover, .page-breadcrumb li a:hover, .page-breadcrumb li:first-child::before, .custom--accordion-two .accordion-button:not(.collapsed), .short-link-list li a:hover, .footer-contact-list li i, .instructor-info-list li i, .contact-card__header .icon i, .contact-card a:hover {
+  color: #2d54a8;
+}
+.text--base {
+  color: #2d54a8 !important;
+}
+.btn--base, .btn-outline--base:hover, .hero-search-form__btn, .testimonial-slider .slick-dots li.slick-active button, .single-review .progress .progress-bar, .contact-area::before, .social-media-list li a:hover, .btn--base:hover,.social-links li a:hover, .scroll-to-top, .cumtom--nav-tabs .nav-item .nav-link.active, .sidebar .widget .widget__title::after, .section-subtitle.border-left::before, .custom--file-upload::before, .icon-btn, .custom--table thead, .preloader .preloader-container .animated-preloader, .preloader .preloader-container .animated-preloader:before, .custom--accordion .accordion-button:not(.collapsed) {
+  background-color: #2d54a8;
+}
+
+.tags a:hover{
+  background-color: #2d54a8 !important;
+  border-color : #2d54a8 !important;
+}
+
+.bg--base {
+  background-color: #2d54a8 !important;
+}
+.header.menu-fixed, .footer__bottom, .footer::before {
+  background-color: #14233c;
+}
+.btn-outline--base, .category-card:hover, .mentor-card:hover, .testimonial-card:hover, .blog-card:hover, .social-links li a:hover, .form--control:focus, .custom--accordion .accordion-item {
+  border-color: #2d54a8}
